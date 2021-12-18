@@ -1,24 +1,9 @@
-# call_api
 
-## Project setup
-```
-npm install
-```
+# Vue3_Axios_API Call
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Mini project for learning api call in vue3 using axios.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Api used in this project
 
-### Lints and fixes files
-```
-npm run lint
-```
+[Github API](https://api.github.com/)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
